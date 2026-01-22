@@ -1,2 +1,2 @@
 ## Nathan Myers
-Data Science Student | University of Virginia
+I am a second year data science student at University of Virginia, planning to concentrate in analytical accounting. 
